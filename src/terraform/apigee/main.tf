@@ -1,5 +1,5 @@
 provider "google" {
-  project     = "kinetic-pilot-360310"
+  project     = "YOUR_PROJECT"
   region      = "us-west1"
 }
 

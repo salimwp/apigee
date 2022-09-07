@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ORG=strapi-360313
+ORG=YOUR_PROJECT
 TOKEN="$(gcloud auth print-access-token)"
 
 # Array list of all the proxies

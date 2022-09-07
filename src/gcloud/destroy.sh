@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PROJECT_ID="kinetic-pilot-360310"
+PROJECT_ID=YOUR_PROJECT
 RANGE_NAME=apigee-range
 
 gcloud alpha apigee organizations delete $PROJECT_ID

@@ -1,4 +1,4 @@
-project_id = "kinetic-pilot-360310"
+project_id = "YOUR_PROJECT"
 
 ax_region = "us-west1"
 

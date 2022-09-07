@@ -1,7 +1,7 @@
 # Step 1: Setup up env vars
 
 AUTH="Authorization: Bearer $(gcloud auth print-access-token)"
-PROJECT_ID="kinetic-pilot-360310"
+PROJECT_ID="YOUR_PROJECT"
 RUNTIME_LOCATION="us-west1"
 ANALYTICS_REGION="us-west1"
 NETWORK_NAME="default"

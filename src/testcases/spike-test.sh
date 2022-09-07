@@ -1,7 +1,7 @@
 #!/bin/bash
-ENDPOINT=prodpremiumrestaurants
-URL=apigee.elysautus.io
-KEY=PqUiMY18hKAm5mDOqppqAtAealSyyPZSiooemFklT3i4V2B3
+ENDPOINT=SOME_ENDPOINT
+URL=HOST_ENV_GROUP
+KEY=SECRET_KEY
 
 curl -k -vvvv https://$URL/$ENDPOINT/?apikey=$KEY
 curl -k -vvvv https://$URL/$ENDPOINT/?apikey=$KEY
