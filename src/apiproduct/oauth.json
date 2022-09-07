@@ -1,0 +1,32 @@
+{
+    "name": "oauth",
+    "displayName": "oauth experiment",
+    "approvalType": "auto",
+    "attributes": [
+      {
+        "name": "access",
+        "value": "public"
+      }
+    ],
+    "description": "OAuth test",
+    "environments": [
+      "eval",
+      "prod"
+    ],
+    "createdAt": "1661332957006",
+    "lastModifiedAt": "1661332957006",
+    "operationGroup": {
+      "operationConfigs": [
+        {
+            "apiSource": "helloworld_oauth2",
+            "operations": [
+                {
+                    "resource": "/"
+                }
+            ],
+            "quota": {}
+        }
+      ],
+      "operationConfigType": "proxy"
+    }
+  }

@@ -1,0 +1,11 @@
+{
+    "email": "nigel@example.com",
+    "firstName": "Nigel",
+    "lastName": "Tufnel",
+    "userName": "nigel",
+    "developerId": "291ab123-06c0-4fca-bcbc-7d955f1f7525",
+    "organizationName": "strapi-360313",
+    "status": "active",
+    "createdAt": "1661528114504",
+    "lastModifiedAt": "1661528114504"
+  }

@@ -1,0 +1,18 @@
+<APIProxy revision="1" name="myscript">
+    <DisplayName>My Script Test</DisplayName>
+    <Description>This is a test</Description>
+    <CreatedAt>1661505513982</CreatedAt>
+    <LastModifiedAt>1661505513982</LastModifiedAt>
+    <BasePaths>/myscript</BasePaths>
+    <Policies>
+        <Policy>verify-api-key</Policy>
+        <Policy>remove-query-param-apikey</Policy>
+        <Policy>impose-quota</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "premiumrestaurants",
+  "info": {
+    "singularName": "premiumrestaurant",
+    "pluralName": "premiumrestaurants",
+    "displayName": "premiumrestaurant"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Website": {
+      "type": "string"
+    },
+    "Cuisine": {
+      "type": "string"
+    }
+  }
+}

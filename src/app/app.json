@@ -1,0 +1,25 @@
+{
+    "appId": "a8b6c05d-07f8-49d8-b9a0-3f015a92b165",
+    "attributes": [
+      {
+        "name": "DisplayName",
+        "value": "nigel_app"
+      }
+    ],
+    "createdAt": "1661333082257",
+    "credentials": [
+      {
+        "apiProducts": [
+          {
+            "apiproduct": "oauth experiment",
+            "status": "approved"
+          }
+        ],
+        "status": "approved"
+      }
+    ],
+    "developerId": "c2c4426e-7ca7-4058-9ea8-35218130967f",
+    "lastModifiedAt": "1661527572594",
+    "name": "nigel_app",
+    "status": "approved"
+  }
